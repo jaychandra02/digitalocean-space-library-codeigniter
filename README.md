@@ -5,7 +5,7 @@ Digital Ocean Space - Library - Codeigniter
 Update Your Credential in config->s3.php
 
 Load Library
-$this->load->library('S3_upload');
+$this->load->library('S3_upload');<br/>
 $this->load->library('S3');
 
 Upload File
